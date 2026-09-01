@@ -11,6 +11,8 @@ The system uses a Large Language Model (LLM) to understand a business request, a
 This project demonstrates how autonomous AI can support **enterprise business analysis, transformation planning, requirements engineering, and business documentation workflows**.
 
 ---
+## Architecture Diagram
+![Architecture](https://github.com/ushad1998/AI-Transformation-Strategy-Intelligence/blob/6d66a5e2497f362c644a4953edde599e612717a2/Architecture%20diagram.png)
 
 ## 📸 Screenshots
 
