@@ -1,10 +1,12 @@
 from docx import Document
 from docx.shared import Pt
+import os
 
 
 def create_word_document(user_request, plan, content):
     """
     Creates a professional Word document.
+    Uses /tmp for serverless environments such as Vercel.
     """
 
     document = Document()
@@ -75,7 +77,13 @@ def create_word_document(user_request, plan, content):
         else:
             document.add_paragraph(line)
 
-    output_file = "output.docx"
+    # -------------------------
+    # Save document
+    # -------------------------
+    if os.getenv("VERCEL"):
+        output_file = "/tmp/output.docx"
+    else:
+        output_file = "output.docx"
 
     document.save(output_file)
 
