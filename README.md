@@ -12,6 +12,20 @@ This project demonstrates how autonomous AI can support **enterprise business an
 
 ---
 
+## 📸 Screenshots
+
+### Swagger API
+![Swagger API])
+
+### Agent Request
+![Agent Request](PASTE-LINK-2)
+
+### Agent Response
+![Agent Response](PASTE-LINK-3)
+
+### Generated Document
+![Generated Document](PASTE-LINK-4)
+
 ## 🎯 Project Objective
 
 Enterprise transformation projects often require significant manual effort to convert business requirements into structured documentation and implementation plans.
