@@ -15,16 +15,18 @@ This project demonstrates how autonomous AI can support **enterprise business an
 ## 📸 Screenshots
 
 ### Swagger API
-![Swagger API])
+![Swagger API](https://github.com/ushad1998/Enterprise-AI-Research-Agent/blob/6fec1d795276aaee7b9dd7f1cc7f61a2b06cd3ce/Screenshots/Screenshot%20(422).png)
+
+![Swagger API](https://github.com/ushad1998/Enterprise-AI-Research-Agent/blob/6fec1d795276aaee7b9dd7f1cc7f61a2b06cd3ce/Screenshots/Screenshot%20(424).png)
 
 ### Agent Request
-![Agent Request](PASTE-LINK-2)
+![Agent Request](https://github.com/ushad1998/Enterprise-AI-Research-Agent/blob/6fec1d795276aaee7b9dd7f1cc7f61a2b06cd3ce/Screenshots/Screenshot%20(440).png)
 
 ### Agent Response
-![Agent Response](PASTE-LINK-3)
+![Agent Response](https://github.com/ushad1998/Enterprise-AI-Research-Agent/blob/6fec1d795276aaee7b9dd7f1cc7f61a2b06cd3ce/Screenshots/Screenshot%20(441).png)
 
 ### Generated Document
-![Generated Document](PASTE-LINK-4)
+![Generated Document](https://github.com/ushad1998/Enterprise-AI-Research-Agent/blob/6fec1d795276aaee7b9dd7f1cc7f61a2b06cd3ce/Screenshots/Screenshot%20(444).png)
 
 ## 🎯 Project Objective
 
